@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+#left {
+    height: 818px;
+    width: 560px;
+    background-color: dodgerblue;
+    float: left;
+}
+
+#center {
+    height: 818px;
+    width: 560px;
+    background-color: #1EDCB2;
+    float: left;
+}
+
+#right {
+    height: 818px;
+    width: 560px;
+    background-color: #B5D880;
+    float: left;
+}
+
+.red-box {
+    height: 188px;
+    background-color: red;
+    
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 20px;
+    color:white;
+    text-align: center;
+    padding: 86px;
+}
