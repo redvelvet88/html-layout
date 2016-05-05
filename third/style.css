@@ -1,0 +1,54 @@
+#header {
+    margin: 0px;
+    position: relative;
+    width: 1680px;
+    height: 100px;
+    background-color: lightgray;
+}
+
+.blue-box {
+    position: absolute;
+    
+    width: 75px;
+    height: 75px;
+    background-color: dodgerblue;
+}
+
+#one {
+    width: 1680px;
+    height: 200px;
+    background-color: white;
+   
+}
+
+div p {
+    padding: 30px 40px 50px 40px;
+    font-family: sans-serif;
+    text-align: left;
+    justify-content: left;
+    line-height: 20px;
+}
+
+#two {
+    width: 1680px;
+    height: 125px;
+    background-color: dodgerblue;
+}
+
+#three {
+    width: 1680px;
+    height: 125px;
+    background-color: aqua;
+}
+
+#four {
+    width: 1680px;
+    height: 125px;
+    background-color: palegreen;
+}
+
+#five {
+    width: 1680px;
+    height: 125px;
+    background-color: #E0F106;
+}
