@@ -1,5 +1,8 @@
-#header {
+body {
     margin: 0px;
+}
+
+#header {
     position: relative;
     width: 1680px;
     height: 100px;
@@ -8,9 +11,9 @@
 
 .blue-box {
     position: absolute;
-    
-    width: 75px;
-    height: 75px;
+    margin: 10px 1620px 12px 20px;
+    width: 80px;
+    height: 80px;
     background-color: dodgerblue;
 }
 
@@ -26,29 +29,29 @@ div p {
     font-family: sans-serif;
     text-align: left;
     justify-content: left;
-    line-height: 20px;
+    line-height: 22px;
 }
 
 #two {
     width: 1680px;
-    height: 125px;
+    height: 135px;
     background-color: dodgerblue;
 }
 
 #three {
     width: 1680px;
-    height: 125px;
+    height: 135px;
     background-color: aqua;
 }
 
 #four {
     width: 1680px;
-    height: 125px;
+    height: 135px;
     background-color: palegreen;
 }
 
 #five {
     width: 1680px;
-    height: 125px;
+    height: 135 px;
     background-color: #E0F106;
 }
