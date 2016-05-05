@@ -3,27 +3,28 @@ body {
 }
 
 #left {
-    height: 818px;
+    height: 858px;
     width: 560px;
     background-color: dodgerblue;
     float: left;
 }
 
 #center {
-    height: 818px;
+    height: 858px;
     width: 560px;
     background-color: #1EDCB2;
     float: left;
 }
 
 #right {
-    height: 818px;
+    height: 858px;
     width: 560px;
     background-color: #B5D880;
     float: left;
 }
 
 .red-box {
+    margin-top: 670px;
     height: 188px;
     background-color: red;
     
